@@ -1,6 +1,5 @@
 # PyInstaller outputs
 build/
-dist/
 *.spec
 
 # Python temporary files
